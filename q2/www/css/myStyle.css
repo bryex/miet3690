@@ -1,0 +1,71 @@
+.home {
+    padding: 10px;
+    color:#33003b;
+    text-align: left;
+}
+.background{
+    background-color: #00003b;
+    margin:0;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 24px;
+    font-weight: normal;
+}
+
+.top {
+    background-color: #66003b;
+    color:white;
+    padding-left:10px;
+    margin-bottom:0px;
+    border-bottom:solid;
+    border-bottom-color: #99003b;
+    
+}
+.title{
+    text-align: center;
+    font-size:60px;
+}
+.headerTitle{
+    color:white;
+    text-decoration: none;
+}
+.sub{
+    color: #cc003b;
+    text-align: center;
+}
+.listed{
+    display: block;
+    color: white;
+    background-color: 	#cc003b;
+    border: solid;
+    border-color: 	#99003b;
+    margin:auto;
+    margin-top: 20px;
+    padding:20px;;
+    width: 40%;
+    align-content: center;
+    text-align: center;
+    font-size: 44px;
+    text-decoration: none;
+}
+.description {
+    border:solid;
+    border-top-width: thick;
+    border-bottom-width: thick; 
+    text-align:justify;
+    color:#cc003b;
+    padding-left:10%;
+    padding-right:10%;
+}
+
+.taughtBy{
+    padding:0;
+    margin:0;
+}
+.bioTitle{
+    padding:0;
+    margin:0;
+    padding-bottom:30px;
+    font-size: 40px;
+    font-weight: 2000;
+}
+       
